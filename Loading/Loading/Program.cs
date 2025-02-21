@@ -13,14 +13,6 @@ namespace Loading
         {
             string Nemo = "□□□□□□□□□□";
 
-            //Console.WriteLine("□□□□□□□□□□");
-            //Thread.Sleep(3000);
-            //Console.Clear();
-            //Console.WriteLine("■□□□□□□□□□");
-            //Thread.Sleep(3000);
-            //Console.Clear();
-            //Console.WriteLine("■■□□□□□□□□");
-
             for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine(Nemo);

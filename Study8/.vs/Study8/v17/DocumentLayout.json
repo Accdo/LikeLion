@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_Practice\\LikeLion\\Study8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95803F-F987-404A-BE15-95A810B93DC8}|Study8\\Study8.csproj|c:\\git_practice\\likelion\\study8\\study8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95803F-F987-404A-BE15-95A810B93DC8}|Study8\\Study8.csproj|solutionrelative:study8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git_Practice\\LikeLion\\Study8\\Study8\\Program.cs",
+              "RelativeDocumentMoniker": "Study8\\Program.cs",
+              "ToolTip": "C:\\Git_Practice\\LikeLion\\Study8\\Study8\\Program.cs",
+              "RelativeToolTip": "Study8\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAowKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:24:16.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

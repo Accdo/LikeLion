@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study8\Study8\bin\Debug\Study8.exe.config
+C:\Git_Practice\LikeLion\Study8\Study8\bin\Debug\Study8.exe
+C:\Git_Practice\LikeLion\Study8\Study8\bin\Debug\Study8.pdb
+C:\Git_Practice\LikeLion\Study8\Study8\obj\Debug\Study8.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study8\Study8\obj\Debug\Study8.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study8\Study8\obj\Debug\Study8.exe
+C:\Git_Practice\LikeLion\Study8\Study8\obj\Debug\Study8.pdb

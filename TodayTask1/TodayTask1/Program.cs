@@ -11,7 +11,21 @@ namespace TodayTask1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("게임 시작");
+            int Hp = 200;
+            int Point = 2;
+
+            Random randomObj = new Random();
+
+            string SkillName1 = "";
+            int[] Skill1 = new int[2];
+            int[] strike = new int[2] { 8, 12 }; // 장검 베기 , 1행동
+            int[] shot = new int[2] { 15, 25 }; // 활쏘기 , 한번에 2행동
+            int[] magicball = new int[2] { 14, 20 }; // 매직 볼 , 캐스팅 1행동 후 다음턴 발사
+            int[] slash = new int[2] { 4, 10 }; // 단검 베기 , 행동 한번더 가능
+
+            int Monster1_Hp = 50;
+
+            Console.WriteLine("엔터를 눌러 게임 시작");
             Console.ReadLine();
             Console.Clear();
 
@@ -29,49 +43,75 @@ namespace TodayTask1
                 Nemo = Nemo.Insert(i, "■");
             }
 
-            Console.WriteLine("108요괴가 세상에 풀렸다.\n");
-            Thread.Sleep(1100);
-            Console.WriteLine("도술을 활용하여 요괴들을 물리쳐라.");
+            Console.WriteLine("요괴의 탑에 도착했다.\n");
             Console.ReadLine();
-            Console.Clear();
-            Console.WriteLine("태초 마을에 도착했다.");
+            Console.WriteLine("다양한 기술로 탑을 공략하자!");
             Console.ReadLine();
-            Console.WriteLine("태초 마을 입구에서 첫 번쨰 요괴 두억시니가 날뛰고 있다.");
-            Console.ReadLine();
-            Console.WriteLine("두억시니를 향해 달려가서 전투를 시작한다.");
-            Console.ReadLine();
-            Console.Clear();
-            Console.WriteLine("플레이어 HP : 1000");
-            Console.ReadLine();
-            Console.WriteLine("두억시니 HP : 100");
-            Console.WriteLine("두억시니 DMG : 10 \n");
-            Thread.Sleep(1100);
-            Console.WriteLine("두억시니 패시브 : 0.000001% 확률로 크리티컬이 발동하여 기본 데미지의 100배를 줍니다.");
-            Console.ReadLine();
-            Console.Clear();
-            Console.WriteLine("플레이어가 [바람 도술 : 풍류파] 를 시전하였다.\n");
-            Thread.Sleep(1100);
-            Console.WriteLine("두억시니가 99 의 피해를 입었다.");
-            Console.ReadLine();
-            Console.WriteLine("두억시니 HP : 1");
-            Console.ReadLine();
-            Console.WriteLine("두억시니가 [박치기] 를 시전하였다.\n");
-            Thread.Sleep(1100);
-            Console.WriteLine("삐빔!");
-            Console.ReadLine();
-            Console.WriteLine("두억시니의 [박치기] 가 0.000001% 확률로 크리티컬이 발동하였다.");
-            Console.ReadLine();
-            Console.WriteLine("플레이어가 1000 의 피해를 입었다.");
-            Console.ReadLine();
-            Console.WriteLine("플레이어 HP : 0");
-            Console.ReadLine();
-            Console.Clear();
-            Console.WriteLine("그렇게 세상은 멸망했다.");
-            Console.ReadLine();
-            Console.WriteLine("The End");
+            Console.WriteLine("플레이어 HP : 200");
             Console.ReadLine();
 
+            int random = randomObj.Next(1,4);
+            if (random == 1)
+            {
+                SkillName1 = "장검 베기";
+                Skill1 = strike;
+            }
+            else if (random == 2)
+            {
+                SkillName1 = "활 쏘기";
+                Skill1 = shot;
+            }
+            else if (random == 3)
+            {
+                SkillName1 = "매직 볼";
+                Skill1 = magicball;
+            }
+            else if (random == 4)
+            {
+                SkillName1 = "단검 베기";
+                Skill1 = slash;
+            }
+            Console.WriteLine(SkillName1 +"을(를) 획득했다.");
+            Console.ReadLine();
+            Console.Clear();
 
+
+            Console.WriteLine("요괴의 탑 1층\n");
+            Console.ReadLine();
+            Console.WriteLine("두억시니가 나타났다.");
+            Console.ReadLine();
+            while(true)
+            {
+                Console.WriteLine("플레이어 HP : " + Hp);
+                Console.ReadLine();
+                Console.WriteLine("두억시니 HP : " + Monster1_Hp);
+                Console.ReadLine();
+                Console.WriteLine("1. " + SkillName1);
+                Console.ReadLine();
+                Console.WriteLine(SkillName1 + " 로 공격했다");
+                Console.ReadLine();
+
+                int randomDmg = randomObj.Next(Skill1[0], Skill1[1]);
+                Monster1_Hp -= randomDmg;
+
+                Console.WriteLine(randomDmg + " 의 데미지를 입혔다.");
+                Console.ReadLine();
+                Console.WriteLine("두억시니 HP : " + Monster1_Hp);
+                Console.ReadLine();
+
+                if (Monster1_Hp <= 0)
+                {
+                    Console.WriteLine("두억시니가 쓰러졌다.");
+                    Console.ReadLine();
+                    break;
+                } 
+
+            }
+
+
+
+            Console.WriteLine("완");
+            Console.ReadLine();
 
 
         }

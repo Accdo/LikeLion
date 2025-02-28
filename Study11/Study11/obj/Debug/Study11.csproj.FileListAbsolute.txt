@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study11\Study11\bin\Debug\Study11.exe.config
+C:\Git_Practice\LikeLion\Study11\Study11\bin\Debug\Study11.exe
+C:\Git_Practice\LikeLion\Study11\Study11\bin\Debug\Study11.pdb
+C:\Git_Practice\LikeLion\Study11\Study11\obj\Debug\Study11.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study11\Study11\obj\Debug\Study11.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study11\Study11\obj\Debug\Study11.exe
+C:\Git_Practice\LikeLion\Study11\Study11\obj\Debug\Study11.pdb

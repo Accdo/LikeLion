@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study9\Study9\bin\Debug\Study9.exe.config
+C:\Git_Practice\LikeLion\Study9\Study9\bin\Debug\Study9.exe
+C:\Git_Practice\LikeLion\Study9\Study9\bin\Debug\Study9.pdb
+C:\Git_Practice\LikeLion\Study9\Study9\obj\Debug\Study9.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study9\Study9\obj\Debug\Study9.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study9\Study9\obj\Debug\Study9.exe
+C:\Git_Practice\LikeLion\Study9\Study9\obj\Debug\Study9.pdb

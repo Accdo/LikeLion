@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\bin\Debug\TowerofLegend.exe.config
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\bin\Debug\TowerofLegend.exe
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\bin\Debug\TowerofLegend.pdb
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\obj\Debug\TowerofLegend.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\obj\Debug\TowerofLegend.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\obj\Debug\TowerofLegend.exe
+C:\Git_Practice\LikeLion\TowerofLegend\TowerofLegend\obj\Debug\TowerofLegend.pdb

@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\bin\Debug\projectBlacksmith.exe.config
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\bin\Debug\projectBlacksmith.exe
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\bin\Debug\projectBlacksmith.pdb
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\obj\Debug\projectBlacksmith.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\obj\Debug\projectBlacksmith.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\obj\Debug\projectBlacksmith.exe
+C:\Git_Practice\LikeLion\projectBlacksmith\projectBlacksmith\obj\Debug\projectBlacksmith.pdb

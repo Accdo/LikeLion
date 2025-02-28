@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Git_Practice\LikeLion\inventory\inventory\bin\Debug\inventory.exe
+C:\Git_Practice\LikeLion\inventory\inventory\bin\Debug\inventory.pdb
+C:\Git_Practice\LikeLion\inventory\inventory\obj\Debug\inventory.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\inventory\inventory\obj\Debug\inventory.exe
+C:\Git_Practice\LikeLion\inventory\inventory\obj\Debug\inventory.pdb

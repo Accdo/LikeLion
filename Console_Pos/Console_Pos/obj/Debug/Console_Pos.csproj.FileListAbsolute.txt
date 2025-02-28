@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\bin\Debug\Console_Pos.exe.config
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\bin\Debug\Console_Pos.exe
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\bin\Debug\Console_Pos.pdb
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\obj\Debug\Console_Pos.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\obj\Debug\Console_Pos.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\obj\Debug\Console_Pos.exe
+C:\Git_Practice\LikeLion\Console_Pos\Console_Pos\obj\Debug\Console_Pos.pdb

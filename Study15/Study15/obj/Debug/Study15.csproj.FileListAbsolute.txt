@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study15\Study15\bin\Debug\Study15.exe.config
+C:\Git_Practice\LikeLion\Study15\Study15\bin\Debug\Study15.exe
+C:\Git_Practice\LikeLion\Study15\Study15\bin\Debug\Study15.pdb
+C:\Git_Practice\LikeLion\Study15\Study15\obj\Debug\Study15.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study15\Study15\obj\Debug\Study15.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study15\Study15\obj\Debug\Study15.exe
+C:\Git_Practice\LikeLion\Study15\Study15\obj\Debug\Study15.pdb

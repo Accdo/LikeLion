@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\bin\Debug\AdventurerRaising.exe.config
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\bin\Debug\AdventurerRaising.exe
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\bin\Debug\AdventurerRaising.pdb
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\obj\Debug\AdventurerRaising.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\obj\Debug\AdventurerRaising.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\obj\Debug\AdventurerRaising.exe
+C:\Git_Practice\LikeLion\AdventurerRaising\AdventurerRaising\obj\Debug\AdventurerRaising.pdb

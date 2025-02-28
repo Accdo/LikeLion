@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\bin\Debug\Arr_For_Func_Mission.exe.config
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\bin\Debug\Arr_For_Func_Mission.exe
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\bin\Debug\Arr_For_Func_Mission.pdb
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\obj\Debug\Arr_For_Func_Mission.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\obj\Debug\Arr_For_Func_Mission.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\obj\Debug\Arr_For_Func_Mission.exe
+C:\Git_Practice\LikeLion\Arr_For_Func_Mission\Arr_For_Func_Mission\obj\Debug\Arr_For_Func_Mission.pdb

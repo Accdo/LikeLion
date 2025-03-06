@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\LoL\LoL\bin\Debug\LoL.exe.config
+C:\Git_Practice\LikeLion\LoL\LoL\bin\Debug\LoL.exe
+C:\Git_Practice\LikeLion\LoL\LoL\bin\Debug\LoL.pdb
+C:\Git_Practice\LikeLion\LoL\LoL\obj\Debug\LoL.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\LoL\LoL\obj\Debug\LoL.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\LoL\LoL\obj\Debug\LoL.exe
+C:\Git_Practice\LikeLion\LoL\LoL\obj\Debug\LoL.pdb

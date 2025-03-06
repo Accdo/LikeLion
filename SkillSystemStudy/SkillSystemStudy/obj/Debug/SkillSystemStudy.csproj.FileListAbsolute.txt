@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.exe.config
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.exe
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.pdb
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.exe
+C:\Git_Practice\LikeLion\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.pdb

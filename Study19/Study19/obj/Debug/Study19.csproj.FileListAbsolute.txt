@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study19\Study19\bin\Debug\Study19.exe.config
+C:\Git_Practice\LikeLion\Study19\Study19\bin\Debug\Study19.exe
+C:\Git_Practice\LikeLion\Study19\Study19\bin\Debug\Study19.pdb
+C:\Git_Practice\LikeLion\Study19\Study19\obj\Debug\Study19.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study19\Study19\obj\Debug\Study19.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study19\Study19\obj\Debug\Study19.exe
+C:\Git_Practice\LikeLion\Study19\Study19\obj\Debug\Study19.pdb

@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study23\Study23\bin\Debug\Study23.exe.config
+C:\Git_Practice\LikeLion\Study23\Study23\bin\Debug\Study23.exe
+C:\Git_Practice\LikeLion\Study23\Study23\bin\Debug\Study23.pdb
+C:\Git_Practice\LikeLion\Study23\Study23\obj\Debug\Study23.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study23\Study23\obj\Debug\Study23.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study23\Study23\obj\Debug\Study23.exe
+C:\Git_Practice\LikeLion\Study23\Study23\obj\Debug\Study23.pdb

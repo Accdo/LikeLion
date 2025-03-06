@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study22\Study22\bin\Debug\Study22.exe.config
+C:\Git_Practice\LikeLion\Study22\Study22\bin\Debug\Study22.exe
+C:\Git_Practice\LikeLion\Study22\Study22\bin\Debug\Study22.pdb
+C:\Git_Practice\LikeLion\Study22\Study22\obj\Debug\Study22.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study22\Study22\obj\Debug\Study22.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study22\Study22\obj\Debug\Study22.exe
+C:\Git_Practice\LikeLion\Study22\Study22\obj\Debug\Study22.pdb

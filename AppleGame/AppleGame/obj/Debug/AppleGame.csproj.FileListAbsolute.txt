@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\bin\Debug\AppleGame.exe.config
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\bin\Debug\AppleGame.exe
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\bin\Debug\AppleGame.pdb
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\obj\Debug\AppleGame.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\obj\Debug\AppleGame.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\obj\Debug\AppleGame.exe
+C:\Git_Practice\LikeLion\AppleGame\AppleGame\obj\Debug\AppleGame.pdb

@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\obj\Debug\TextRPG_Practice.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\obj\Debug\TextRPG_Practice.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\bin\Debug\TextRPG_Practice.exe.config
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\bin\Debug\TextRPG_Practice.exe
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\bin\Debug\TextRPG_Practice.pdb
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\obj\Debug\TextRPG_Practice.exe
+C:\Git_Practice\LikeLion\TextRPG_Practice\TextRPG_Practice\obj\Debug\TextRPG_Practice.pdb

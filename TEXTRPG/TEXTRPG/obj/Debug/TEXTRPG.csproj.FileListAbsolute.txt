@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe.config
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.pdb
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.exe
+C:\Git_Practice\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.pdb

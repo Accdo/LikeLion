@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe.config
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+C:\Git_Practice\LikeLion\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb

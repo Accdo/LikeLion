@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study26\Study26\bin\Debug\Study26.exe.config
+C:\Git_Practice\LikeLion\Study26\Study26\bin\Debug\Study26.exe
+C:\Git_Practice\LikeLion\Study26\Study26\bin\Debug\Study26.pdb
+C:\Git_Practice\LikeLion\Study26\Study26\obj\Debug\Study26.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study26\Study26\obj\Debug\Study26.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study26\Study26\obj\Debug\Study26.exe
+C:\Git_Practice\LikeLion\Study26\Study26\obj\Debug\Study26.pdb

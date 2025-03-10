@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Action\Action\bin\Debug\Action.exe.config
+C:\Git_Practice\LikeLion\Action\Action\bin\Debug\Action.exe
+C:\Git_Practice\LikeLion\Action\Action\bin\Debug\Action.pdb
+C:\Git_Practice\LikeLion\Action\Action\obj\Debug\Action.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Action\Action\obj\Debug\Action.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Action\Action\obj\Debug\Action.exe
+C:\Git_Practice\LikeLion\Action\Action\obj\Debug\Action.pdb

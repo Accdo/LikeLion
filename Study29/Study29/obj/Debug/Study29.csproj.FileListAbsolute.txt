@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\Study29\Study29\bin\Debug\Study29.exe.config
+C:\Git_Practice\LikeLion\Study29\Study29\bin\Debug\Study29.exe
+C:\Git_Practice\LikeLion\Study29\Study29\bin\Debug\Study29.pdb
+C:\Git_Practice\LikeLion\Study29\Study29\obj\Debug\Study29.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\Study29\Study29\obj\Debug\Study29.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\Study29\Study29\obj\Debug\Study29.exe
+C:\Git_Practice\LikeLion\Study29\Study29\obj\Debug\Study29.pdb

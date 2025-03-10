@@ -1,0 +1,7 @@
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.AssemblyReference.cache
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Git_Practice\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
